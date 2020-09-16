@@ -32,7 +32,7 @@ class Place {
 List<Place> getPlaceList(){
   return <Place>[
     Place(
-        "Beautiful city view from top of the town",
+        "成熟の具現化",
         "Norway",
         3580.9,
         [
@@ -44,7 +44,7 @@ List<Place> getPlaceList(){
         false
     ),
     Place(
-        "The second largest city in Brazil, famous for its breathtaking landscape",
+        "息を呑む美しさ",
         "Brazil",
         2990,
         [
@@ -56,7 +56,7 @@ List<Place> getPlaceList(){
         false
     ),
     Place(
-        "This city has been described as the cultural, financial, and media capital of the world",
+        "世界の中心",
         "USA",
         4870.5,
         [
@@ -68,7 +68,7 @@ List<Place> getPlaceList(){
         false
     ),
     Place(
-        "This city is built around a huge harbour and hosts many tourist attractions",
+        "自然と共に",
         "Australia",
         4120.5,
         [
@@ -78,7 +78,7 @@ List<Place> getPlaceList(){
         false
     ),
     Place(
-        "One of the largest Buddhist temples",
+        "お寺を巡る旅",
         "Hong Kong",
         3990,
         [
@@ -89,7 +89,7 @@ List<Place> getPlaceList(){
         false
     ),
     Place(
-        "These red cabins are beautiful",
+        "豊さとは",
         "Norway",
         4055,
         [
@@ -166,7 +166,7 @@ List<Featured> getFeaturedList(){
       "assets/images/city.jpg",
     ),
     Featured(
-      "2018",
+      "2019",
       "Top 10 Destinations",
       "assets/images/destination.jpg",
     ),

@@ -34,7 +34,7 @@ class _ExploreState extends State<Explore> {
         backgroundColor: Colors.transparent,
         elevation: 0,
         title: Text(
-          "Explore",
+          "Warf",
           style: TextStyle(
             fontSize: 28,
             fontWeight: FontWeight.bold,

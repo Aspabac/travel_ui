@@ -227,7 +227,7 @@ class _DetailState extends State<Detail> {
                       ),
                       child: Center(
                         child: Text(
-                          "Book Now",
+                          "予約",
                           style: TextStyle(
                             color: Colors.white,
                             fontWeight: FontWeight.bold,
